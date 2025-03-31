@@ -1,12 +1,12 @@
--- create database school_DB;
--- Show databases;
--- Use SCHOOL_Db;
--- select 	database();
--- drop database schooldb;
--- create database test;
--- use test; 
+create database school_DB;
+ Show databases;
+ Use SCHOOL_Db;
+ select 	database();
+drop database schooldb;
+ create database test;
+ use test; 
 
--- CONSTRAINS 
+ CONSTRAINS 
 
 create table employees(
 employee_id int primary key auto_increment ,
